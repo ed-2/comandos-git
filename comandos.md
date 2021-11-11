@@ -13,3 +13,5 @@
 - Executar o comando: $ git commit -m "coloque aqui o comentário sobre a alteração realizada"
 ### Enviar todas as alterações locais para a nuvem do GitHub
 - Executar o comando: $ git push origin main
+### Atualizar o reposiório local com o conteúdo na nuvem
+- Executar o comando: $ git pull
