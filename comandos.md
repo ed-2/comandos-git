@@ -23,6 +23,9 @@
 - Executar o comando: $ git config --global --unset [propriedade]
 ### Apontar o caminho repositório remoto
 - Executar o comando: $ git remote add origin [caminho do repositório]
+### Criar um novo repositório do Git
+- Acessar a pasta local de seu worspace, clicar com o botão direito e selecionar "Git Bash Here" no menu de contexto
+- Executar o comando: $ git init
 # Comandos Git Bash
 ### Renomear uma pasta ou arquivo
 - Utilizar o comando: $ mv [caminho anterior da pasta ou arquivo] [novo caminho da pasta ou arquivo]
