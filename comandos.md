@@ -20,7 +20,7 @@
 ### Incluir propriedade da configuração do Git
 - Executar o comando: $ git config --global [propriedade] [valor]
 ### Excluir propriedade da configuração do Git
-- Executar o comando: $ git config --unset [propriedade]
+- Executar o comando: $ git config --global --unset [propriedade]
 # Comandos Git Bash
 ### Renomear uma pasta ou arquivo
 - Utilizar o comando: $ mv [caminho anterior da pasta ou arquivo] [novo caminho da pasta ou arquivo]
