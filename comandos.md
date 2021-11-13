@@ -15,3 +15,6 @@
 - Executar o comando: $ git push origin main
 ### Atualizar o reposiório local com o conteúdo na nuvem
 - Executar o comando: $ git pull
+# Comandos Git Bash
+### Renomear uma pasta ou arquivo
+- Utilizar o comando: $ mv [caminho anterior da pasta ou arquivo] [novo caminho da pasta ou arquivo]
