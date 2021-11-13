@@ -12,7 +12,7 @@
 ### Enviar as últimas alterações para o repositório local
 - Executar o comando: $ git commit -m "coloque aqui o comentário sobre a alteração realizada"
 ### Enviar todas as alterações locais para a nuvem do GitHub
-- Executar o comando: $ git push origin main
+- Executar o comando: $ git push origin master
 ### Atualizar o reposiório local com o conteúdo na nuvem
 - Executar o comando: $ git pull
 ### Listar as configurações do Git
@@ -21,6 +21,8 @@
 - Executar o comando: $ git config --global [propriedade] [valor]
 ### Excluir propriedade da configuração do Git
 - Executar o comando: $ git config --global --unset [propriedade]
+### Apontar o caminho repositório remoto
+- Executar o comando: $ git remote add origin [caminho do repositório]
 # Comandos Git Bash
 ### Renomear uma pasta ou arquivo
 - Utilizar o comando: $ mv [caminho anterior da pasta ou arquivo] [novo caminho da pasta ou arquivo]
