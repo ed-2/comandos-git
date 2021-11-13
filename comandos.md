@@ -26,6 +26,8 @@
 ### Criar um novo repositório do Git
 - Acessar a pasta local de seu worspace, clicar com o botão direito e selecionar "Git Bash Here" no menu de contexto
 - Executar o comando: $ git init
+### Listar repositórios remotos cadastrados
+- Executar o comando: $ git remote -v
 # Comandos Git Bash
 ### Renomear uma pasta ou arquivo
 - Utilizar o comando: $ mv [caminho anterior da pasta ou arquivo] [novo caminho da pasta ou arquivo]
