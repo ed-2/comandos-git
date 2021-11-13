@@ -15,6 +15,10 @@
 - Executar o comando: $ git push origin main
 ### Atualizar o reposiório local com o conteúdo na nuvem
 - Executar o comando: $ git pull
+### Listar as configurações do Git
+- Executar o comando: $ git config --list
+### Incluir ou alterar propriedade da configuração do Git
+- Executar o comando: $ git config --global [propriedade] [valor]
 # Comandos Git Bash
 ### Renomear uma pasta ou arquivo
 - Utilizar o comando: $ mv [caminho anterior da pasta ou arquivo] [novo caminho da pasta ou arquivo]
